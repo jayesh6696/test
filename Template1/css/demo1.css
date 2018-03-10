@@ -1,0 +1,193 @@
+body {
+    margin: 0;
+}
+header {
+    background-color: #1c1c1c;
+    border-bottom: 3px solid #e8064a;
+    box-sizing: border-box;
+    padding: 2em;
+}
+.main {
+    margin: 0 113px 0 121px;
+}
+footer {
+    background-color: #313131;
+    color: white;
+    padding: 1.5em;
+    text-align: left;
+}
+.img {
+    background-image: url("../Images/logo.PNG");
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    height: 3em;
+    margin-left: 7em;
+    width: 13em;
+}
+.menu ul {
+    font-family: "Trebuchet MS";
+    font-size: larger;
+    font-weight: bold;
+    list-style-type: none;
+    margin: -3em 0 0 29em;
+    overflow: hidden;
+    padding: 0;
+}
+#home {
+    background-color: #ff1d4e;
+}
+.menu li {
+    color: white;
+    display: block;
+    float: left;
+    padding: 14px 16px;
+    text-align: center;
+    text-decoration: none;
+}
+.menu li:hover {
+    background-color: #ff1d4e;
+}
+.contain {
+    background: rgba(0, 0, 0, 0) linear-gradient(to top, #0a0a0a, #323232) repeat scroll 0 0;
+    display: inline-block;
+    padding: 10% 0;
+    width: 100%;
+}
+.box {
+    background-color: #666666;
+    color: white;
+    margin: -78px 0 0 -25px;
+    padding: 50px 0;
+    position: relative;
+    text-align: center;
+    width: 250px;
+}
+.icon {
+    background: #fa154d none repeat scroll 0 0;
+    border-radius: 50%;
+    color: #fff;
+    display: inline-block;
+    font-size: 50px;
+    left: 30%;
+    padding: 20px;
+    position: absolute;
+    top: -40px;
+}
+.container {
+    margin: 0 0 0 52px;
+    width: 1170px;
+}
+.contain ul {
+    list-style: outside none none;
+}
+.contain li {
+    float: left;
+    width: 33%;
+}
+.main-middle {
+    display: inline-block;
+    padding: 40px 0;
+    width: 100%;
+}
+.main-middle > li {
+    display: inline-block;
+    width: 100%;
+}
+.boxfooter {
+    background: #fc074c none repeat scroll 0 0;
+    bottom: 0;
+    color: white;
+    font-family: Tahoma;
+    font-size: x-large;
+    height: 60px;
+    left: -25px;
+    position: relative;
+    text-align: center;
+    width: 251px;
+}
+.contain2 {
+    background-color: #f6f6f6;
+    box-sizing: border-box;
+    height: 884px;
+    width: auto;
+}
+.contain2one {
+    border-bottom: 2px solid #d9d9d9;
+    color: #292929;
+    font-family: "Trebuchet MS";
+    font-size: xx-large;
+    margin-left: 149px;
+    margin-right: 176px;
+    padding: 43px 0 40px;
+}
+.contain2two {
+    border-bottom: 2px solid #d9d9d9;
+    height: 384px;
+    margin-left: 94px;
+    margin-right: 176px;
+    padding: 67px 0 0;
+}
+.contain2img {
+    background-image: url("../Images/macbook.png");
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    bottom: 12em;
+    height: 325px;
+    left: 40em;
+    position: relative;
+    width: 327px;
+}
+p.style {
+    color: #a7a7a7;
+    font-size: smaller;
+    margin-left: 130px !important;
+}
+.readmore {
+    background: #fc074c none repeat scroll 0 0;
+    border: 1px solid #fc074c;
+    bottom: 23em;
+    color: white;
+    font-family: "Comic Sans MS";
+    font-weight: bold;
+    height: 47px;
+    left: 32em;
+    position: relative;
+    text-align: center;
+    width: 104px;
+}
+.conatin2three {
+    color: #3d3d3d;
+    font-family: Tahoma;
+    margin-left: 201px;
+}
+.footerimg {
+    background-image: url("../Images/footer.PNG");
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    height: 154px;
+    margin-left: 139px;
+    width: 61em;
+}
+.viewother {
+    background: #fc074c none repeat scroll 0 0;
+    border: 1px solid #fc074c;
+    color: white;
+    float: right;
+    font-family: "Comic Sans MS";
+    font-weight: bold;
+    height: 47px;
+    margin: 13px 192px 0 0;
+    position: relative;
+    text-align: center;
+    width: 111px;
+}
+footer ul {
+    color: #a2a2a2;
+    display: inline-flex;
+    list-style-type: none;
+    margin: 2px 1px 0 312px;
+    text-indent: 10px;
+}
+footer li:hover {
+    color: #e80e3f;
+}
